@@ -31,4 +31,5 @@ You may use your choice of C# compilers, such as [Visual Studio](https://www.vis
 1. In Visual Studio, open TCP_multiple\TCP_multiple\Program.cs
 2. Compile and run the code.
 3. Open JoshIM\JoshIM\BuddyList.cs to start the first chat sign-in window.
+4. Enter username and click Sign In.
 ```
