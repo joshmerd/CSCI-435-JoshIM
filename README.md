@@ -25,7 +25,7 @@ Comments regarding design: This program was designed to be a demonstration of a 
 1. Run JoshIM.exe located in the JoshIM\JoshIM\bin\Debug\ folder.
 ```
 ## Compiling Code:
-You may use your choice of C# compilers, such as [Visual Studio Code](https://code.visualstudio.com/) with C# extension. 
+You may use your choice of C# compilers, such as [Visual Studio](https://www.visualstudio.com/). 
 
 ```
 1. In Visual Studio, open TCP_multiple\TCP_multiple\Program.cs
