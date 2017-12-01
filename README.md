@@ -3,7 +3,7 @@ Demonstration of a TCP Chat Server
 
 Program Name: JoshIM
 
-Creation Date: Fall 2008
+Creation Date: Fall 2006
 
 Last Modified Date: November 20, 2017
 
